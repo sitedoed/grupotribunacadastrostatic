@@ -1,0 +1,159 @@
+li.nav-item:hover{
+    background-color: dimgray;
+}
+tr:hover {
+    background-color: dimgray !important;
+}
+.btn-primary{
+	float:right;
+}
+.floatright{
+	float:right;
+}
+.floatleft{
+	float:left;
+}
+.margem_cima_baixo{
+	padding-top: 2rem;
+	margem-bottom: 2rem;
+	float:left;
+	display: block;
+	width: 100%;
+}
+.linha_cheia{
+	width:100%;
+	display: block;
+	float:left;
+}
+.linha_metade{
+	width:50%;
+	display: block;
+	float:left;
+}
+.linha_sombreada{
+	padding: 0.5rem;
+	margin: 0;
+	width: 100% !important;
+	height: 100%;
+	float:left;
+}
+.invisible{
+	display: block;
+	width: 3rem;
+}
+.linha_sombreada:hover{
+	background-color: #efeff5;
+	border-bottom: 1px solid #e0e0eb; 
+}
+.contorno{
+	display: block;
+	border: 10 px solid black;
+	margin: 0 auto;
+	width: 100%;
+}
+.metade{
+	width: 50%;
+	display: block;
+	float:left;
+}
+.um_quarto{
+	width: 25%;
+	float: left;
+}
+.um_oitavo{
+	width: 12.25%;
+	float: left;
+}
+.direita{
+	float: right;
+}
+.form_col2{
+	width:50%;
+	float:left;
+}
+.form_col3{
+	width:33%;
+	float:left;
+}
+.form_col3_1{
+	width:34%;
+	float:left;
+}
+.form_col4{
+	width:17%;
+	float:left;
+}
+.floatright{
+	float:right;
+	display: block;
+}
+.tale_col5{
+	display: block;
+	width: 20%;
+}
+.mesma_linha{
+	float:left;
+	list-style-type: none;
+	margin-right: 1rem;
+}
+.col4{
+	width:17%;
+	float:left;
+}
+.capitalize{
+	text-transform: capitalize;
+}
+.amarelo{
+	background-color: #FFFF00;
+	color: #663300;
+}
+.vermelho{
+	color:#ff3333;
+}
+.box_acesso_restrito{
+	margin-top: 5rem;
+	padding: 2rem;
+	text-align: center;
+}
+.caixa_de_texto_pesquisa_publica{
+	width: 100%;
+	height: 2.4rem;
+	display: block;
+	float:left;
+	-webkit-border-radius: 0.2rem;
+	-moz-border-radius: 0.2 rem;
+	border-radius: 0.2 rem;
+	background-color: white;
+  	background-image: url('/images/searchicon.png');
+ 	background-position: 10px 10px; 
+  	background-repeat: no-repeat;
+  	padding-left: 40px;
+}
+.btn_pesquisa_publica{
+	width: 100%;
+	display: block;
+	float:left;
+	-webkit-border-radius: 0.3rem;
+	-moz-border-radius: 0.3 rem;
+	border-radius: 0.3 rem;
+	background-color: blue;
+}
+.margin_top{
+	margin-top:1rem;
+	display: block;
+}
+.margin_right_5{
+	display: block;
+	width:100%;
+	margin-right: 5rem;
+}
+
+/*
+FORM MODELO
+*/
+
+.modelo{
+	width: 50% !important;
+	background-color: blue;
+	float:left;
+}
